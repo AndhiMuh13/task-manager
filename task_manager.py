@@ -11,3 +11,6 @@ def remove_task(task):
 
 def list_tasks():
     return tasks
+
+
+# Ini adalah komentar blok yang benar
